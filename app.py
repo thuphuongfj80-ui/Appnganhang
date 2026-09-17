@@ -1,5 +1,5 @@
 import streamlit as st
-import pandas as pd st.image("Logo.jpg.JPG)
+imporst.image("Logo.jpg.JPG)
 
 # Cấu hình trang
 st.set_page_config(
